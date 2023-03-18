@@ -1,0 +1,5 @@
+coroutine.wrap(function()
+    game.Players.LocalPlayer.PlayerGui.WarningGUIMorphScript.unfinish1.TextLabel.Text = 'No more credits fucking nigger'
+    game.Players.LocalPlayer.PlayerGui.MorphingGui.Gui.HomeUI.CreditsBox1.TextTransparency = 1
+    game.Players.LocalPlayer.PlayerGui.MorphingGui.Gui.HomeUI.CreditsBox2.TextTransparency = 1
+end)
